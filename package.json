@@ -1,0 +1,16 @@
+{
+  "name": "animated-twitter-photo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://akd-io@github.com/akd-io/animated-twitter-photo.git"
+  },
+  "author": "Anders Kjær Damgaard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akd-io/animated-twitter-photo/issues"
+  },
+  "homepage": "https://github.com/akd-io/animated-twitter-photo#readme"
+}
